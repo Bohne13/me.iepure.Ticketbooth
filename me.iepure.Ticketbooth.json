@@ -1,7 +1,7 @@
 {
     "id": "me.iepure.Ticketbooth",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "49",
     "sdk": "org.gnome.Sdk",
     "command": "ticketbooth",
     "finish-args": [
